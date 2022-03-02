@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test for max wrong guesses is a snapshot of correct lose scenario 1`] = `
+<div>
+  <div
+    class="Snowman"
+  >
+    <img
+      alt="6"
+      src="6.png"
+    />
+    <p
+      class="Snowman-wrong-guesses"
+    >
+       Number wrong: 
+      6
+       
+    </p>
+    <p
+      class="Snowman-word"
+    >
+      apple
+    </p>
+    <p
+      class="Snowman-buttons"
+    />
+    <p
+      class="Snowman-lose-msg"
+    >
+      You Lose!!
+    </p>
+  </div>
+</div>
+`;
